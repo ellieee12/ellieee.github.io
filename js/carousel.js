@@ -7,15 +7,15 @@ let img1_number = 0;
 const total_img1 = 3;
 const imgs1 = {
     0 : {
-        "src":"/src/language-program/language-program-1.jpg",
+        "src":"src/language-program/language-program-1.jpg",
         "description":"Preparatory program for engineering and French language studies"
     },
     1 : {
-        "src":"/src/language-program/language-program-2.jpg",
+        "src":"src/language-program/language-program-2.jpg",
         "description":"Last day of the program"
     },
     2 :  {
-        "src":"/src/language-program/language-program-3.jpg",
+        "src":"src/language-program/language-program-3.jpg",
         "description":"First day of the arriving in Tours, France"
     }
 }
@@ -29,15 +29,15 @@ let img2_number = 0;
 const total_img2 = 3;
 const imgs2 = {
     0 : {
-        "src":"/src/toulouse-studies/toulouse-studies-1.jpg",
+        "src":"src/toulouse-studies/toulouse-studies-1.jpg",
         "description":"View of the Garonne river in Toulouse"
     },
     1 : {
-        "src":"/src/toulouse-studies/toulouse-studies-2.jpg",
+        "src":"src/toulouse-studies/toulouse-studies-2.jpg",
         "description":"Toulouse during night time"
     },
     2 :  {
-        "src":"/src/toulouse-studies/toulouse-studies-3.jpg",
+        "src":"src/toulouse-studies/toulouse-studies-3.jpg",
         "description":"Visiting other cities in the south of France"
     }
 }
@@ -51,15 +51,15 @@ let img3_number = 0;
 const total_img3 = 3;
 const imgs3 = {
     0 : {
-        "src":"/src/lam-berambeh/lam-berambeh-1.jpg",
+        "src":"src/lam-berambeh/lam-berambeh-1.jpg",
         "description":"Lam Berambeh"
     },
     1 : {
-        "src":"/src/lam-berambeh/lam-berambeh-2.jpg",
+        "src":"src/lam-berambeh/lam-berambeh-2.jpg",
         "description":"Tower Bridge"
     },
     2 :  {
-        "src":"/src/lam-berambeh/lam-berambeh-3.jpg",
+        "src":"src/lam-berambeh/lam-berambeh-3.jpg",
         "description":"King's Cross Bridge"
     }
 }
@@ -73,23 +73,23 @@ let img4_number = 0;
 const total_img4 = 5;
 const imgs4 = {
     0 : {
-        "src":"/src/travel/travel-1.jpg",
+        "src":"src/travel/travel-1.jpg",
         "description":"Tower of Pisa in Pisa, Italy"
     },
     1 : {
-        "src":"/src/travel/travel-2.jpg",
+        "src":"src/travel/travel-2.jpg",
         "description":"Riding camels in Morocco"
     },
     2 :  {
-        "src":"/src/travel/travel-3.jpg",
+        "src":"src/travel/travel-3.jpg",
         "description":"Lisbon, Portugal"
     },
     3 :  {
-        "src":"/src/travel/travel-4.jpg",
+        "src":"src/travel/travel-4.jpg",
         "description":"Tromso, Norway"
     },
     4 :  {
-        "src":"/src/travel/travel-4.jpg",
+        "src":"src/travel/travel-4.jpg",
         "description":"Arthur's Seat in Edinburgh"
     }
 }
