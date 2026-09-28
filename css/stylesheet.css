@@ -206,3 +206,42 @@ h5{
   letter-spacing: 0.03em; 
   text-align: justify;
 }
+
+.footer{
+  margin-top:150px;
+  background-color: #0c112c;
+  padding-left:50px;
+  padding-top:50px;
+  padding-bottom:50px;
+}
+
+.footer p, .footer a{
+  color:white;
+}
+
+.footer .title{
+  font-size:32px;
+  margin:0;
+}
+
+.footer .subtitle{
+  font-size:24px;
+  letter-spacing:0.04em;
+}
+
+.contacts{
+  display:flex;
+  flex-direction:column;
+  justify-content: space-evenly;
+}
+.footer a{
+  margin: 10px 0px;
+  font-size:16px;
+  font-weight: bold;
+  text-decoration: none;
+  letter-spacing:0.04em;
+}
+.footer .line{
+  border-top: 1px solid white;
+  width:50%
+}
