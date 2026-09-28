@@ -1,0 +1,39 @@
+.quote{
+    background-color: #0c112c;
+    padding: 50px;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+.quote p{
+    color:white;
+    text-align:justify;
+}
+.quote-text{
+    font-size:34px;
+    letter-spacing: 0.04em;
+}
+.quote-author{
+    font-size:20px;
+    letter-spacing: 0.04em;
+}
+.progress-with-purpose{
+    margin-left:20%;
+    margin-right:20%
+}
+.progress-with-purpose p{
+    font-size:16px;
+    letter-spacing: 0.04em;
+    text-align:justify;
+}
+.progress-with-purpose div{
+    border:1px solid #0c112c ;
+    width:10%;
+    margin-top:25px;
+    margin-bottom:25px;
+}
+.button-content{
+    margin-top:50px;
+    margin-left:20%;
+    margin-right:20%;
+}
