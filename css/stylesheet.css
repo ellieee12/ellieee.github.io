@@ -1,16 +1,15 @@
-
-html{
-    height:100%;
-    background-color: white;
+html {
+  background-color: #FFFFFF; /* what shows when you overscroll */
 }
-body{
-    margin:0;
-    background: #FFFFFF;
-    background-image: linear-gradient(to top, rgba(255, 255, 255, 1) 0%, rgba(252, 232, 243, 1) 70%);
-    height:100%;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    font-family: madefor-text, helveticaneuew01-45ligh, helveticaneuew02-45ligh, helveticaneuew10-45ligh, sans-serif;
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background-color: #FFFFFF;
+  background-image: linear-gradient(to top, #FFFFFF 0%, #FCE8F3 70%);
+  background-repeat: no-repeat;
+  /* no background-attachment: fixed, and no height: 100% */
+  font-family: madefor-text, helveticaneuew01-45ligh, helveticaneuew02-45ligh, helveticaneuew10-45ligh, sans-serif;
 }
 /* Navbar container */
 .navbar {
