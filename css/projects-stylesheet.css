@@ -12,5 +12,34 @@
     background-attachment: fixed;
     border-bottom: 0.5px solid black;
     border-radius: 1px;
+}
+.project-btn{
+    background-color:rgba(252, 232, 243, 0);
+    color:#152238;
+    border:0.5px solid #152238;
+    padding: 10px 40px;
+    font-size: 16px;
+    font-weight: normal;
+    text-decoration: none;
+    transition: all 0.4s;
+}
+.project-btn:hover{
+    background-color:#152238;
+    color:white;
+    border:none;
+    cursor:pointer;
+}
 
+.tags{
+    display:flex;
+    flex-direction: row;
+    justify-content: start;
+    gap:15px;
+}
+.tags p{
+    font-size: 14px;
+    background:rgba(252, 232, 243, 0);
+    border: 0.5px solid #152238;
+    border-radius:10px;
+    padding: 3px 30px;
 }

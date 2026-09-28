@@ -89,7 +89,7 @@ const imgs4 = {
         "description":"Tromso, Norway"
     },
     4 :  {
-        "src":"src/travel/travel-4.jpg",
+        "src":"src/travel/travel-5.jpg",
         "description":"Arthur's Seat in Edinburgh"
     }
 }
