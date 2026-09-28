@@ -22,6 +22,7 @@
     margin-right:20%
 }
 .progress-with-purpose p{
+    line-height:1.8;
     font-size:16px;
     letter-spacing: 0.04em;
     text-align:justify;
@@ -36,4 +37,32 @@
     margin-top:50px;
     margin-left:20%;
     margin-right:20%;
+}
+.info-card{
+    margin-left:8%;
+    margin-right:8%;
+    margin-bottom:80px;
+    padding: 50px 50px;
+    background: #FFFFFF;
+    background-image: linear-gradient(to right, #181d45 0%, #454960 70%);
+    background-attachment: fixed;
+}
+.info-title{
+    font-size:26px;
+    margin-top:0;
+}
+.info-title,.info-text{
+    color:white;
+    letter-spacing: 0.04em;
+}
+.info-text{
+    padding-bottom:30px;
+    line-height:1.8;
+}
+.info-img{
+    display:flex;
+    flex-direction: row;
+    gap:15px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
 }
